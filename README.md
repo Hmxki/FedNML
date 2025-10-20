@@ -120,5 +120,10 @@ Example (MuRed):
 | `noise_r` | Label noise ratio | customizable |
 | `annotation_num` | Retained class count after missing label simulation | customizable |
 
+## 📂 running
+
+```bash
+run file ./src/train_FedNML.py
+```
 
 
